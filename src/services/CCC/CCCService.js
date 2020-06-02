@@ -9,6 +9,5 @@ export default class CCCService {
   sendMessage (host, path, parameters) {
     this.logger.info(parameters)
     return new Axios(host).post(path, parameters)
-    .then(response => response)
   }
 }
