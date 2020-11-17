@@ -1,5 +1,4 @@
 ##Basic Info
-
 Info: email parser 
 Description: 
 
@@ -12,9 +11,7 @@ Description:
 * npm i ntl -g
 * npm i nodemon -g
 * npm i
-* ntl
-
-choose dev
+* ntl choose dev
 
 #####Production
 * ntl build
